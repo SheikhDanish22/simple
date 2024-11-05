@@ -1,0 +1,391 @@
+header{
+    width: 100%;
+    height: 105vh;
+    background-image: url(/h1_hero1.jpg.webp);
+    background-size: cover;
+    margin-top: 0%;
+    
+}
+*{
+    color: black;
+    
+}
+nav img{
+    align-items: left;
+    
+    
+    
+}
+nav{
+    width: 100%;
+    height: 80px;
+    background-color:white;
+    
+    color: black;
+    
+    align-items: center;
+    display: flex;
+    
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    
+}
+
+.menu a {
+    text-decoration: none;
+    font-size: 10px;
+    padding: 4px 4px;
+    text-align: center;
+    color: #32404D;
+  font-family: "Chivo",sans-serif;
+  font-size: 100%;
+  
+  
+  
+  
+}
+.icon i {
+  
+  margin-left: 20px;
+  
+}
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 100px;
+}
+a {
+    margin-right: 30px;
+    font-family: "Chivo",sans-seri;
+    
+}
+span {
+    font-size: 24px;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #fff;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+header {
+    color: white;
+    text-align: start;
+    /* margin-left: 5%; */
+    margin-top:10%;
+    font-size: 30px;
+    align-items: center;
+}
+b {
+    color: white;
+    font-family: "Chivo",sans-serif;
+  font-size: 20px;;
+}
+ .logos{
+    color: white;
+    
+    background-color: rgb(236, 100, 100);
+    padding-left: 10px;
+padding-right: 30px;
+padding: 10px;
+width: 120px;
+font-size: large;
+ }
+
+b {
+    font-family: "Chivo",sans-serif;
+  font-size: 54px;
+  font-weight: 900;
+  margin-bottom: 9px;
+  color: #fff;
+  line-height: 1.2;
+
+}
+pre{
+    color: white;
+    line-height: 0%;
+}
+
+
+
+
+#sec{
+  display: flex;
+    margin: left;
+    padding: 0px;
+    padding-top: 5%;
+    padding-bottom: 10%;
+    color:pink;
+    
+}
+    #sec{
+      width: 100px;
+    }
+
+    #women{
+      width: 100%;
+      height: 60%;
+      margin-top: 0px;
+      margin-left: 0px;
+      background-color: rgb(255, 240, 243);
+
+    }
+    #women img{
+      height: 400px;
+      width: 550px;
+      margin-top: 90px;
+      margin-left: 40px;
+    }
+    #comprehensive{
+      align-items: right;
+      
+    }
+    #comprehensive h2{
+      content: right;
+      margin-top: 0px;
+      display: flex;
+      
+  
+  line-height: 1.2;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+    }
+
+    .text-center {
+      text-align: center !important
+    }
+.section-title h2{
+   font-size: 40px;
+   color: #32404D;
+  font-size: 40px;
+  display: block;
+  font-weight: 900;
+  line-height: 1.2;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+  font-family: "Chivo",sans-serif;
+  color: #32404D;
+  margin-top: 0px;
+  font-style: normal;
+  box-sizing: border-box;
+}
+
+.section-title p{
+  margin-top: 0px;
+  box-sizing: border-box;
+  -bs-gutter-x: 1.5rem;
+  font-style: normal;
+  color: #777777;
+  font-size: 18px;
+  font-family: "Chivo",sans-serif;
+  color: #5D646A;
+  font-size: 16px;
+  line-height: 30px;
+  margin-bottom: 15px;
+
+}
+#students{
+  margin: 50px;
+
+}
+#students .box{
+  border: 2px solid rgb(254, 236, 239);
+  height: 550px;
+  width: 550px;
+  margin-left: 20px;
+  margin-top: 70px;
+  
+
+  margin: 3px 
+  border-radius: 28px;
+  background-color: white;
+}
+  
+  
+
+
+.box img{
+  height: 300px;
+  width: 520px;
+  padding-left: 12px;
+  padding-top: 15px;
+  
+
+}
+
+.center a{
+  color: #324040;
+  font-weight: 600;
+  font-size: 26px;
+  display: block;
+  margin-bottom: 15px;
+  text-decoration: none;
+  line-height: 1.2;
+  padding-left: 15px;
+  
+}
+
+.center p{
+  font-family: "Chivo",sans-serif;
+  font-size: 16px;
+  margin-bottom: 20px;
+  line-height: 1.5;
+  font-weight: 400;
+  padding-left: 15px;
+  
+  margin-left: 100px;
+}
+#learn1 a{
+  color: #007A5C;
+  font-weight: 500;
+  font-size: 16px;
+  padding-left: 15px;
+  font-family: "Chivo",sans-serif;
+}
+.main{
+   height: 60%;
+   width: 100%;
+   margin-top: 700px;
+   background-color:black;
+   background: no-repeat;
+}
+.main img{
+  height: 500px;
+  width: 600px;
+  margin-left: 60%;
+  background-color: pink;
+}
+.main h2{
+  color: #32404D;
+  font-size: 40px;
+  display: block;
+  font-weight: 900;
+  line-height: 1.2;
+  margin-bottom: 30px;
+  text-transform: uppercas
+}
+.main p{
+  font-family: "Chivo",sans-serif;
+  color: #5D646A;
+  font-size: 16px;
+  line-height: 30px;
+  margin-bottom: 15px;
+  font-weight: 400;
+}
+
+#hbox{
+  height: 20%;
+  width: 50%;
+  border: 2px solid pink;
+  align-items: start;
+  display: flex;
+  align-items: top;
+
+
+  
+}
+#hbox .hbox{
+  align-items: start;
+
+  
+}
+.hbox h2{
+  font-size: 30px;
+  padding-top: 10px;
+  margin-top: 20px;
+}
+ 
+
+  #top h2{
+    font-size: 40px;
+    color: #32404D;
+  display: block;
+  font-weight: 900;
+  line-height: 1.2;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+  margin-left: 20px;
+}
+
+
+.photo img{
+  height: 20%;
+  width: 30%;
+  gap: 10px;
+  margin-left: 15px;
+}
+.photo p{
+  text-decoration: none;
+  font-size: 30px;
+  color:  #32404D;
+  margin-left: 35px;
+}
+
+
+#client-section{
+  height: 344px;
+}
+#client-section::before{
+  content: "";
+  position: absolute;
+  
+  width: 100%;
+  height: 500px;
+  z-index: -1;
+  opacity: 0.4;
+}
+#clients{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url('/images.jfif');
+  height: 180px;
+
+}
+
+.cen{
+  text-align: center;
+}
+.client-item img{
+  height: 40px;
+}
+.client-item{
+  padding: 10px;
+}
+.client-item{
+  width: 15%;
+  height: 20%;
+}
+#clint-section .h-primarycen h1{
+  font-size: 80px;
+
+}
+
+
+#secound-last{
+  height: 50%;
+  width: 100%;
+}
+.girl img{
+  margin-left: -200px;
+  width: 70%;
+
+}
+#container2{
+  width: 100%;
+  margin: 10px;
+  display: flex;
+  background-color: white;
+  opacity: 0.89;
+  
+  text-decoration: none;
+}
+ 
+.coll1,.coll2{
+  width: 60px;
+  margin: 50px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
